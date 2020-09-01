@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;500&display=swap');
+
+.container {
+  font-family: 'Zilla Slab', serif;
+  height: 7rem;
+  width: 100%;
+  background-color: #414d5e !important;
+  color: white !important;
+  text-align: center;
+
+}
+
+.footer {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+}
+
+.socialIcons {
+  padding-top: 1rem;
+  font-size: 2.5rem;
+}
+
+.socialIcons a{
+  padding-left: .8rem;
+
+}
+
+.socialIcons a:hover{
+  font-size: 2.8rem;
+  opacity: 0.5;
+  transition: 0.5s;
+}
+
+@media (max-width:770px){
+    .container{
+      height: 5rem;
+      width:100%;
+      padding: 1rem;
+    }
+    .footer {
+      margin-top: .5rem;
+      padding-left: .5rem;
+      font-size: 1.2rem;
+    }
+
+
+    .socialIcons {
+      font-size: 1.5rem;
+
+}
+}

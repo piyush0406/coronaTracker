@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  justify-content: center;
+  width: 85%;
+  color: white !important;
+  background-color: #223031;
+  padding: 3rem;
+  border-radius: 30px;
+  margin-bottom: 3rem;
+
+}
+
+
+@media (max-width:770px){
+    .container{
+      width:100%;
+      padding: 1rem;
+    }
+}

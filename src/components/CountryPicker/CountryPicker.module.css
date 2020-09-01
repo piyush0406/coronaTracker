@@ -1,0 +1,14 @@
+.formControl {
+  width: 40%;
+  margin-bottom: 3rem !important;
+
+}
+
+.dropdown{
+  color: white !important;
+
+}
+
+.dropdown option{
+  background-color: #222831 !important;
+}

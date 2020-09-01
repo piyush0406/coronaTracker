@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;500&display=swap');
+
+.container{
+  margin: 50px 0px;
+}
+
+
+.card {
+  margin : 0 2% !important;
+  text-align: center;
+  width:25rem !important;
+
+}
+
+.infected{
+  background-color: #28389a !important;
+  border-bottom: 10px solid #2d3fae;
+}
+
+.card:hover{
+  box-shadow: 2px 2px 6px grey;
+}
+
+.recovered{
+  background-color: #289a8a !important;
+  border-bottom: 10px solid #33c2ae;
+}
+
+.deaths{
+  background-color: #c23347 !important;
+  border-bottom: 10px solid #d86a79;
+}
+
+.cardHead{
+  font-weight:500 !important;
+  font-family: 'Zilla Slab', serif;
+  font-size: 2rem !important;
+  color: white !important;
+}
+
+@media (max-width:770px){
+    .card{
+      margin: 2% 0 !important;
+      width: 50% !important;
+    }
+}

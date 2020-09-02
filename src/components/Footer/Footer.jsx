@@ -15,7 +15,7 @@ const Footer = () => {
           &copy;Piyush-2020
           <div className={styles.socialIcons}>
               <a href="https://github.com/piyush0406" target="_blank"><FontAwesomeIcon icon={faGithub} color="white"/></a>
-              <a href="https://github.com/https://piyush0406.github.io/" target="_blank"><FontAwesomeIcon icon={faConnectdevelop} color="white"/></a>
+              <a href="https://piyush0406.github.io/" target="_blank"><FontAwesomeIcon icon={faConnectdevelop} color="white"/></a>
           </div>
 
         </div>

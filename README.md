@@ -1,9 +1,8 @@
-![Image of the Website]
-(https://i.imgur.com/PRbfsZ3.png)
+![Image of the Website](https://i.imgur.com/PRbfsZ3.png)
 
-**[Visit the Website](#) :hugs:
+[Visit the Website](http://indiacovidlive.herokuapp.com/) :hugs:
 
-his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

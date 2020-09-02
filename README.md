@@ -1,7 +1,6 @@
-![Image of the Website]
-(https://i.imgur.com/PRbfsZ3.png)
+![Image of the Website](https://i.imgur.com/PRbfsZ3.png)
 
-**[Visit the Website](#) :hugs:
+[Visit the Website](#) :hugs:
 
 his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

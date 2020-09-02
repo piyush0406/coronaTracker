@@ -4,10 +4,12 @@ import ReactDOM from 'react-dom';
 import App from './App'
 
 import ReactGA from 'react-ga';
-//import auth from './auth.ts'; // Sample authentication provider
+//import auth from './auth.ts';
 
-const trackingId = "UA-177100276-1"; // Replace with your Google Analytics tracking ID
+const trackingId = "UA-177100276-1";
 ReactGA.initialize(trackingId);
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 //ReactGA.set({
 //  userId: auth.currentUserId(),
   // any data that is relevant to the user session
